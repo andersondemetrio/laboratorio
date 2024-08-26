@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vitrine de Medicamentos</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Formulário de Cadastro de Medicamentos</h1>
+        
+        <div class="user-info">
+            <span id="loggedInUser"></span>
+        </div>
+        
+        <form id="medicamentoForm">
+            <input type="text" id="nome" placeholder="Informe o nome do medicamento" required>
+            <input type="text" id="laboratorio" placeholder="Informe o nome do laboratório" required>
+            <input type="text" id="preco" placeholder="Informe o preço" required>
+            <input type="text" id="imagem" placeholder="Imagem" required>
+            <button type="submit">Cadastrar novo</button>
+        </form>
+    </header>
+    <main>
+        <h2>Todos os Medicamentos</h2>
+        <div id="listaMedicamentos"></div>
+    </main>
+    <script src="scripts/script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#listaMedicamentos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.medicamento-card {
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    width: 200px;
+}
+
+.medicamento-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.medicamento-card p {
+    margin: 5px 0;
+}
