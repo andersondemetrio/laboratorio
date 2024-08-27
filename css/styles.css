@@ -104,3 +104,30 @@ input::-ms-input-placeholder {
 .user-info span {
     font-weight: bold; /* Deixa o texto em negrito */
 }
+
+.medicamento-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.medicamento-card p {
+    margin: 0;
+}
+
+.medicamento-card button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.medicamento-card button:hover {
+    background-color: darkred;
+}
