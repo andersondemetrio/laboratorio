@@ -64,7 +64,6 @@ h1, h2 {
 .medicamento-card p {
     margin: 5px 0;
 }
-<<<<<<< HEAD
 
 .bg-color {
     background-color: aquamarine !important;
@@ -77,7 +76,6 @@ h1, h2 {
 
 .form-input {
     height: 40px;
-=======
 input::placeholder {
     color: #6c757d; /* cor do placeholder */
     opacity: 1; /* Opacidade total */
@@ -107,5 +105,4 @@ input::-ms-input-placeholder {
 
 .user-info span {
     font-weight: bold; /* Deixa o texto em negrito */
->>>>>>> 90246ead67c02bbd402ef90957c1304853a4a8c6
 }
