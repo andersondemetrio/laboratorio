@@ -64,3 +64,16 @@ h1, h2 {
 .medicamento-card p {
     margin: 5px 0;
 }
+
+.bg-color {
+    background-color: aquamarine !important;
+}
+
+.form-itens-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-input {
+    height: 40px;
+}
