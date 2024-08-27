@@ -76,6 +76,7 @@ h1, h2 {
 
 .form-input {
     height: 40px;
+}
 input::placeholder {
     color: #6c757d; /* cor do placeholder */
     opacity: 1; /* Opacidade total */
