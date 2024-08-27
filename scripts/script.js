@@ -30,3 +30,23 @@ function renderizarMedicamentos() {
 
 renderizarMedicamentos();
 //comentario
+
+// Adicione este código ao seu arquivo script.js
+
+document.addEventListener("DOMContentLoaded", function() {
+    // Define o usuário 'admin' no localStorage, se ainda não estiver definido
+    if (!localStorage.getItem('username')) {
+        localStorage.setItem('username', 'admin');
+    }
+
+    // Recupera o nome do usuário do localStorage
+    const username = localStorage.getItem('username');
+
+    // Atualiza o conteúdo do elemento <span id="loggedInUser">
+    if (username) {
+        document.getElementById('loggedInUser').textContent = username;
+    } else {
+        document.getElementById('loggedInUser').textContent = 'Usuário não encontrado';
+    }
+});
+
