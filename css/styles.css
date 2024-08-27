@@ -64,6 +64,7 @@ h1, h2 {
 .medicamento-card p {
     margin: 5px 0;
 }
+<<<<<<< HEAD
 
 .bg-color {
     background-color: aquamarine !important;
@@ -76,4 +77,35 @@ h1, h2 {
 
 .form-input {
     height: 40px;
+=======
+input::placeholder {
+    color: #6c757d; /* cor do placeholder */
+    opacity: 1; /* Opacidade total */
+}
+
+input:-ms-input-placeholder {
+    color: #6c757d; /* cor do placeholder no IE */
+}
+
+input::-ms-input-placeholder {
+    color: #6c757d; /* cor do placeholder no Edge */
+}
+
+
+/* Estilo para .user-info */
+.user-info {
+    position: absolute; /* Para posicionar no canto superior direito */
+    top: 10px; /* Ajuste a posição vertical conforme necessário */
+    right: 20px; /* Ajuste a posição horizontal conforme necessário */
+    font-size: 14px; /* Tamanho da fonte para o texto */
+    color: #333; /* Cor do texto */
+    background-color: #f8f9fa; /* Cor de fundo, pode ser removido se não necessário */
+    padding: 5px 10px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.user-info span {
+    font-weight: bold; /* Deixa o texto em negrito */
+>>>>>>> 90246ead67c02bbd402ef90957c1304853a4a8c6
 }
