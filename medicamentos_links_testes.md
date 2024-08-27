@@ -7,3 +7,7 @@ https://www.drogariaminasbrasil.com.br/media/product/9e6/dipirona-monoidratada-1
 
 Toragesic
 https://ortopedistaemsaopaulo.com.br/wp-content/uploads/2022/12/Toragesic.jpg)
+
+Xarope
+
+//io.convertiez.com.br/m/farmaponte/shop/products/images/19434/medium/expec-04mgml-20mgml-4mgml-6mgml-caixa-com-1-frasco-com-120ml-de-xarope_14184.webp

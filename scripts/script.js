@@ -43,7 +43,7 @@ function renderizarMedicamentos() {
             <div class="card-body">
                 <h5 class="card-title">${medicamento.nome}</h5>
                 <p class="card-text"><strong>Laboratório:</strong> ${medicamento.laboratorio}</p>
-                <p class="card-text"><strong>Valor Produto:</strong> R$ ${medicamento.preco}</p>
+                <p class="card-text"><strong>Valor:</strong> R$ ${medicamento.preco}</p>
                 <button class="btn btn-danger" onclick="deletarMedicamento(${index})">Deletar</button>
             </div>
         `;
