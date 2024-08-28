@@ -22,11 +22,15 @@ Este projeto é um site para a "Farmácia Dev" focado no cadastro e gerenciament
 O projeto está organizado da seguinte forma:
 
 
+
 ├── index.html             # Página principal com o formulário de cadastro e lista de medicamentos
+
 ├── css
 │   └── styles.css         # Arquivo de estilos personalizado
+
 ├── scripts
 │   └── script.js          # Script JavaScript para manipulação do DOM
+
 └── img                    # Pasta contendo as imagens do site
 ```
 
