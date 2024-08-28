@@ -23,15 +23,15 @@ O projeto está organizado da seguinte forma:
 
 
 
-├── index.html             ## Página principal com o formulário de cadastro e lista de medicamentos
+├── index.html             # **Página principal com o formulário de cadastro e lista d**e medicamentos
 
 ├── css
-│   └── styles.css         ## Arquivo de estilos personalizado
+│   └── styles.css         # **Arquivo de estilos personalizado**
 
 ├── scripts
-│   └── script.js          ## Script JavaScript para manipulação do DOM
+│   └── script.js          # **Script JavaScript para manipulação do DOM**
 
-└── img                    ## Pasta contendo as imagens do site
+└── img                    # **Pasta contendo as imagens do site**
 ```
 
 ## Como Executar o Projeto
