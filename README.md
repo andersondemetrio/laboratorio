@@ -1,4 +1,3 @@
-```markdown
 # Mini Projeto: Site de Cadastro de Medicamentos - Farmácia Dev
 
 ## Descrição
@@ -22,7 +21,7 @@ Este projeto é um site para a "Farmácia Dev" focado no cadastro e gerenciament
 
 O projeto está organizado da seguinte forma:
 
-```
+
 ├── index.html             # Página principal com o formulário de cadastro e lista de medicamentos
 ├── css
 │   └── styles.css         # Arquivo de estilos personalizado
@@ -35,7 +34,7 @@ O projeto está organizado da seguinte forma:
 
 1. Clone o repositório para a sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/andersondemetrio/laboratorio.git
    ```
 
 2. Navegue até o diretório do projeto:
